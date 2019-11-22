@@ -1,1 +1,83 @@
-<mxfile host="www.draw.io" modified="2019-11-22T07:41:23.515Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" version="12.2.9" etag="zEOhm8RuNXVzDhs6v7Pl" type="github"><diagram id="Vx2bNyZ79DJesSIGPruC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-22T09:19:07.064Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="og-i1oXDCY1J8COQx-NX" version="12.2.9" type="github" pages="1">
+  <diagram id="Vx2bNyZ79DJesSIGPruC" name="第 1 页">
+    <mxGraphModel dx="1380" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_fZrEGO0k54oSY-orP9-2" target="P_fZrEGO0k54oSY-orP9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="240" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-2" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22GAS%E8%B0%83%E6%95%B4%22%20style%3D%22html%3D1%3BfillColor%3D%231ba1e2%3BstrokeColor%3D%23006EAF%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22120%22%20width%3D%2250%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="75" y="90" width="480" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-3" value="MAP用户" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-15" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-4" value="POB理事会" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-15" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_fZrEGO0k54oSY-orP9-17" target="P_fZrEGO0k54oSY-orP9-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320"/>
+              <mxPoint x="320" y="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-21" value="公投" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="480" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-19" value="&lt;h4&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;proposal&amp;nbsp;&lt;/span&gt;Review&lt;/b&gt;&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="205" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-17" value="&lt;h3&gt;&lt;b&gt;POB Community Council&lt;/b&gt;&lt;/h3&gt;" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="75" y="260" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-24" value="&lt;b&gt;GAS Adjust&lt;/b&gt;" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-25" value="&lt;h4&gt;&lt;a name=&quot;header-n139&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Ecological Reward&lt;/span&gt;&lt;/a&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h4&gt;" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-27" value="&lt;b&gt;Protocol Update&lt;/b&gt;" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="110" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-28" value="&lt;b&gt;Delay Time&lt;/b&gt;" style="html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-29" value="&lt;b&gt;Voting Rights&lt;/b&gt;" style="html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="269" y="380" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-30" value="&lt;b&gt;Voting Rate&lt;/b&gt;" style="html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_fZrEGO0k54oSY-orP9-39" target="P_fZrEGO0k54oSY-orP9-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_fZrEGO0k54oSY-orP9-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="90" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-39" value="&lt;h3&gt;&lt;a name=&quot;header-n51&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Proposer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h4&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-20" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-43" value="&lt;b&gt;MAP Holder&lt;/b&gt;" style="html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-15" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-44" value="&lt;b&gt;POB Council&lt;/b&gt;" style="html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="413" y="-15" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-53" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="20" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="P_fZrEGO0k54oSY-orP9-58" value="&lt;h3&gt;Community Referendum&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="310" width="180" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
